@@ -1,0 +1,13 @@
+#,Issue,Workstream,Priority,Status,Owner,Timeline,Acceptance Criteria
+1,Analyze discount-request behavior,Discovery,P0 – Critical,Done,Program / Project Manager,Week 1,"Document recurring behavior, business problem, and opportunity statement"
+2,Prepare points program proposal,Proposal,P0 – Critical,Done,Program / Project Manager,Week 2,"Proposal includes objective, user behavior insight, business value, initial scope, risks, and resource needs"
+3,Secure stakeholder approval,Approval,P0 – Critical,Done,Business / Product Lead,Week 2,Proceed / revise decision documented; open commercial questions assigned
+4,Define earning actions,Program Design,P0 – Critical,In Progress,Program / Project Manager + Product Lead,Week 3,"Eligible actions, limits, trigger rules, and exclusions approved"
+5,Define redemption rules,Program Design,P0 – Critical,In Progress,Product Lead + Commercial,Week 3,"Thresholds, caps, exclusions, expiry, refund behavior, and coupon rules documented"
+6,Document technical requirements,Web / Technical,P1 – High,In Progress,Program / Project Manager + Web Team,Week 4,"Tracking, account balance, event triggers, admin controls, and dependencies documented"
+7,Configure points and rewards system,Web / Technical,P0 – Critical,Backlog,Web / Technical Team,Week 5–6,Approved earning and redemption logic configured in test environment
+8,Create rewards landing page and FAQ,Content / Marketing,P1 – High,Backlog,Marketing + Web,Week 6,"How-it-works page, FAQ, and customer-facing rules complete and approved"
+9,Prepare program terms and support guide,Operations,P1 – High,Backlog,Program Manager + Support,Week 6,"Terms, support FAQ, escalation path, and internal guidance approved"
+10,Run points program QA,QA,P0 – Critical,Backlog,QA + Project Manager,Week 7,"Earn, redeem, refund, duplicate-action, expiry, and abuse cases pass"
+11,Launch points and rewards program,Launch,P0 – Critical,Backlog,Program / Project Manager,Week 8,"Go/no-go approved, program activated, communication sent, monitoring enabled"
+12,Review post-launch performance,Measurement,P1 – High,Backlog,Program / Project Manager,Week 9+,"Adoption, earning, redemption, repeat purchase, support, and issues reviewed with recommendations"
