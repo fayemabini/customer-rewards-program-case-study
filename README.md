@@ -1,4 +1,4 @@
-# Points & Rewards Program — Product/Program Management Case Study
+# Points & Rewards Program | Product/Program Management Case Study
 
 > Portfolio case study based on a real type of program I have managed. Specific company data, names, and confidential details are intentionally omitted.
 
@@ -25,7 +25,6 @@ Examples of earn actions may include:
 - Completing a purchase
 - Completing a course or learning milestone
 - Participating in selected website activities
-- Referrals
 - Reviews or feedback
 - Promotional engagement
 
