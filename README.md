@@ -57,6 +57,7 @@ Used for the overall program:
 Used for day-to-day execution:
 **Backlog → In Progress → Review / QA → Done**
 
+
 ## Project files
 
 - [Project Brief](docs/project-brief.md)
@@ -80,6 +81,15 @@ Used for day-to-day execution:
 - Risk management
 - QA and launch readiness
 - KPI design and post-launch optimization
+
+  ## Project Views
+
+This case study is managed using two views:
+
+- **Timeline / Roadmap** : for phases, dependencies, and launch planning
+- **Kanban Board** : for day-to-day execution and status tracking
+
+[View the GitHub Project](https://github.com/users/fayemabini/projects/3/views/2?groupedBy%5BcolumnId%5D=422262867)
 
 ---
 
